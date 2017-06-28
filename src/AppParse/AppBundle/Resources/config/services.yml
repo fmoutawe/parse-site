@@ -1,0 +1,4 @@
+services:
+#    app_parse_app.example:
+#        class: AppParse\AppBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
